@@ -34,7 +34,7 @@ You will need to use your own Google API key to operate this tool.
 Clone this repository:
 
 Copy code
-git clone https://github.com/yourusername/ats-resume-checker.git
+git clone https://github.com/Sunilabhi/Resume-ATS-Score-Checker-App.git
 
 Install the dependencies.
 
