@@ -5,8 +5,11 @@ Struggling to get your resume noticed by employers? This simple app helps you an
 Features:
 
 📄 Upload your resume in PDF format.
+
 📋 Enter a job description you're applying for.
+
 🎯 Get an ATS match percentage and suggestions for missing keywords.
+
 🚀 Tailor your resume for better chances of getting shortlisted.
 
 Why I Built This:
@@ -16,7 +19,9 @@ As a job seeker, I faced the same challenge of getting my resume through ATS fil
 How It Works:
 
 Upload your resume and enter the job description.
+
 The app evaluates your resume against the job description using AI (Google Gemini).
+
 It provides a percentage match and a list of missing keywords to help you improve your resume.
 
 Important Note:
