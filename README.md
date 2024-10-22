@@ -1,8 +1,8 @@
-Resume ATS Score Checker App
+# Resume ATS Score Checker App
 
 Struggling to get your resume noticed by employers? This simple app helps you analyze your resume and check how well it matches a job description based on ATS (Applicant Tracking System) criteria.
 
-Features:
+## Features:
 
 📄 Upload your resume in PDF format.
 
@@ -12,11 +12,11 @@ Features:
 
 🚀 Tailor your resume for better chances of getting shortlisted.
 
-Why I Built This:
+## Why I Built This:
 
 As a job seeker, I faced the same challenge of getting my resume through ATS filters. I built this tool to solve that problem for myself, but I realized that many others are in the same position. That’s why I decided to share this app with the community.
 
-How It Works:
+## How It Works:
 
 Upload your resume and enter the job description.
 
@@ -24,12 +24,12 @@ The app evaluates your resume against the job description using AI (Google Gemin
 
 It provides a percentage match and a list of missing keywords to help you improve your resume.
 
-Important Note:
+## Important Note:
 
 The AI model used (Google Gemini) is not 100% accurate, but it provides useful insights to guide you in improving your resume.
 You will need to use your own Google API key to operate this tool.
 
-How to Use:
+## How to Use:
 
 Clone this repository:
 
